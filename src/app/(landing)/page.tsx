@@ -38,7 +38,7 @@ const HomePage = () => {
                     className="w-4 h-4"
                   />
                   Introducing Verve ⚡️
-                  <ChevronRight className="w-4 h-4" />
+                  {/* <ChevronRight className="w-4 h-4" /> */}
                 </span>
               </button>
 
